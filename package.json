@@ -1,0 +1,14 @@
+{
+  "name": "unicode-confusable-detector",
+  "version": "1.0.0",
+  "description": "Unicode 归一化与视觉混淆字检测",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
